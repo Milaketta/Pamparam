@@ -108,5 +108,6 @@ but_read.place(x=10, y=90)
 but_check = Button(root, text='Check', command=check)
 but_check.pack()
 but_check.place(x=60, y=90)
+print("hello")
 
 root.mainloop()
